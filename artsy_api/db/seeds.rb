@@ -1,7 +1,48 @@
-# This file should contain all the record creation needed to seed the database with its default values.
-# The data can then be loaded with the rails db:seed command (or created alongside the database with db:setup).
-#
-# Examples:
-#
-#   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
-#   Character.create(name: 'Luke', movie: movies.first)
+Art.create(title: "Towering NYC Skyscraper", artist_name: "Lucas Franco", price: 10.5, img: "https://source.unsplash.com/aRTjFXs6HNc")
+Art.create(title: "Monochrome Woman Umbrella", artist_name: "Jesse Williams", price: 10.5, img: "https://source.unsplash.com/Bj0LJahdZQo")
+Art.create(title: "One Day In New York", artist_name: "Valou_c", price: 10.5, img: "https://source.unsplash.com/Lg5JH54zalg")
+Art.create(title: "New York Subway", artist_name: "Adi Goldstein", price: 10.5, img: "https://source.unsplash.com/B2sNfHkjagM")
+Art.create(title: "A View From DUMBO", artist_name: "Dylan Freedom", price: 10.5, img: "https://source.unsplash.com/iEgP_YHs-jM")
+Art.create(title: "Black & White Train", artist_name: "Jesse Williams", price: 10.5, img: "https://source.unsplash.com/jGwyxVSQ9uM")
+Art.create(title: "Lady Liberty", artist_name: "Maarten van den Heuvel", price: 10.5, img: "https://source.unsplash.com/72AmipMdx0Q")
+Art.create(title: "Verazzano-Narrows", artist_name: "Manny Ribera", price: 10.5, img: "https://source.unsplash.com/dV_Blc0bols")
+Art.create(title: "Urban Wall", artist_name: "Tatiana Rodriguez", price: 10.5, img: "https://source.unsplash.com/m0wZhtII1FU")
+Art.create(title: "Brighton Beach", artist_name: "Paulo Silva", price: 10.5, img: "https://source.unsplash.com/mHv2CDYhDWU")
+Art.create(title: "The Stock Exchange", artist_name: "Aditya Vyas", price: 10.5, img: "https://source.unsplash.com/mHdATQY9fIU")
+Art.create(title: "BK Bridge", artist_name: "Thomas Loizeau", price: 10.5, img: "https://source.unsplash.com/aAJ-z8mkgZc")
+Art.create(title: "N Y C", artist_name: "Drew Graham", price: 10.5, img: "https://source.unsplash.com/x6QPa_5ZqOc")
+Art.create(title: "Grand Central Terminal", artist_name: "Robert Bye", price: 10.5, img: "https://source.unsplash.com/BXbi3mYMOWM")
+Art.create(title: "Meet Me On Wall St", artist_name: "Rick Tap", price: 10.5, img: "https://source.unsplash.com/uJhgEXPqSPk")
+Art.create(title: "102-Stops Elevator To Heaven", artist_name: "Mark Ashtoff", price: 10.5, img: "https://source.unsplash.com/Y_7wXiRn_J8")
+Art.create(title: "The Beautiful Brooklyn Bridge", artist_name: "Anthony DELANOIX", price: 10.5, img: "https://source.unsplash.com/9MiP0C3QqZ4")
+Art.create(title: "A View From 375 Hudson Rooftop", artist_name: "Michael Discenza", price: 10.5, img: "https://source.unsplash.com/5omwAMDxmkU")
+Art.create(title: "National Monument", artist_name: "Lucas Franco", price: 10.5, img: "https://source.unsplash.com/NMlad_sUGTo")
+Art.create(title: "A View Above Central Park", artist_name: "Anthony Rosset", price: 10.5, img: "https://source.unsplash.com/H2ZXPSsQYZw")
+Art.create(title: "DUMBO", artist_name: "Max Sandelin", price: 10.5, img: "https://source.unsplash.com/S-Ca0PUprCk")
+Art.create(title: "Fulton Center", artist_name: "Lerone Pieters", price: 10.5, img: "https://source.unsplash.com/dUlx57tQUVA")
+Art.create(title: "Standing Tall!", artist_name: "Aditya Vyas", price: 10.5, img: "https://source.unsplash.com/ZtrahFp1pjA")
+Art.create(title: "Manhattan", artist_name: "Peter Osmenda", price: 10.5, img: "https://source.unsplash.com/5r2QvMGivqs")
+Art.create(title: "Food Break", artist_name: "Joyce Romero", price: 10.5, img: "https://source.unsplash.com/FFcMeEEsems")
+Art.create(title: "Empire State", artist_name: "Kit Suman", price: 10.5, img: "https://source.unsplash.com/WQwtk_t4oJI")
+Art.create(title: "Fearless", artist_name: "Robert Bye", price: 10.5, img: "https://source.unsplash.com/xHUZuSwVJg4")
+Art.create(title: "A NYC Stroll", artist_name: "Diego Jimenez", price: 10.5, img: "https://source.unsplash.com/qgyr3l6xZJk")
+Art.create(title: "Prince St", artist_name: "Anthony DELANOIX", price: 10.5, img: "https://source.unsplash.com/mJQczMKEl5M")
+Art.create(title: "Manhattan, NYC", artist_name: "Matteo Cantanese", price: 10.5, img: "https://source.unsplash.com/9dmiSreZthw")
+Art.create(title: "Steel Suspension Bridge Wires", artist_name: "Vita Vilcina", price: 10.5, img: "https://source.unsplash.com/0G1r-Cg0zS8")
+Art.create(title: "Statue Of Liberty", artist_name: "James Pond", price: 10.5, img: "https://source.unsplash.com/hqpG5Ijhsyo")
+Art.create(title: "The Gift", artist_name: "Anthony DELANOIX", price: 10.5, img: "https://source.unsplash.com/hv5pLutRkCI")
+Art.create(title: "Commuters", artist_name: "Luca Bravo", price: 10.5, img: "https://source.unsplash.com/B6-H27CMbGI")
+Art.create(title: "Person Walks West Village Street", artist_name: "Chanan Greenblatt", price: 10.5, img: "https://source.unsplash.com/684kZ4oqB6c")
+Art.create(title: "Skyline", artist_name: "Rohit Tandon", price: 10.5, img: "https://source.unsplash.com/qK6898jepEU")
+Art.create(title: "Streets", artist_name: "Ian Dooley", price: 10.5, img: "https://source.unsplash.com/dcqMsxhU4zo")
+Art.create(title: "The Never Sleeping Times Square", artist_name: "Denys Nevozhai", price: 10.5, img: "https://source.unsplash.com/N6t14kV_X68")
+Art.create(title: "Looking Up At The Manhattan Bridge", artist_name: "Hieu Vu Minh", price: 10.5, img: "https://source.unsplash.com/IRkAbNRT_Yg")
+
+
+
+
+
+
+
+
+User.create(first_name: "Beyonce", last_name: "Knowles-Carter", email: "beyonce@something.com", password: "test123")
